@@ -17,3 +17,7 @@ Day3
 Day4
 1. House Robber II 
 2. Nqueen Problem
+
+Day5
+1. Permutaion of string or array
+2. Combination of k elemnt in [1,n]
