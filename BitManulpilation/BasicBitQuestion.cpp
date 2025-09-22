@@ -20,4 +20,5 @@ int main(){
     int b=6;
    swapToNumber(a,b);
    cout << a << " " << b;
+
 }
