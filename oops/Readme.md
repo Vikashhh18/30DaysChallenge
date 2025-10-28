@@ -3,9 +3,9 @@ What is OOPs?
 OOP (Object-Oriented Programming) is a programming paradigm based on the concept of objects — which contain data (attributes) and functions (methods) that operate on that data.
 
 It helps make code:
-✅ More organized
-✅ Reusable
-✅ Easier to maintain and debug
+1. More organized
+2. Reusable
+3. Easier to maintain and debug
 
 
 Pillar	Description	Keyword/Concept
